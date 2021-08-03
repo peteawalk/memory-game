@@ -2,7 +2,7 @@
 How to Play: Click on a car and keep clicking on different year Mustangs to try and get to a high score of 12. If you lose, your high score will be tracked.
 
 ## Technologies used:
-Javascript (node.JS) with the help of npm friends: express, body-parser, path. Hosted on [Heroku](https://www.heroku.com/)
+Javascript (node.JS) with the help of npm friends: express, body-parser, path. Tested with [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
 ## Created by: 
 Peter Walker  
